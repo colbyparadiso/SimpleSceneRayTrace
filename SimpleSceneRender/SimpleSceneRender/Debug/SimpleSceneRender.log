@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Box.cpp
+  Canvas.cpp
+  Object.cpp
+  Perspective.cpp
+  Plane.cpp
+  Scene.cpp
+  SimpleSceneRender.cpp
+  Sphere.cpp
+  Generating Code...
+  SimpleSceneRender.vcxproj -> C:\Users\cparadiso\source\repos\SimpleSceneRender\Debug\SimpleSceneRender.exe
